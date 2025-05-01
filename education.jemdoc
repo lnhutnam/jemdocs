@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{education.html}, nofooter
+== Education and Experience
+
+== Education
+
+- Master of Science in Applied Mathematics
+-- Dec. 2023 - Dec. 2025
+-- University of Science - Vietnam National University, Ho Chi Minh City, Vietnam
+-- Advisor: [https://scholar.google.com/citations?user=4NR04JYAAAAJ&hl=en&oi=ao Assoc. Prof. Dr. Vo Si Trong Long]
+-- Relevant Coursework: Convex Analysis, Non-linear Programming, Multi-Objectives Programming, Optimization Algorithms, Mathematical Modelling in Economics, Stochastic Processes, Statistical Modelling, Differential Equations, Partial Differential Equations, Numerical Analysis 
+- Master of Science in Computer Science
+-- Dec. 2022 - Dec. 2024
+-- University of Science - Vietnam National University, Ho Chi Minh City, Vietnam
+-- Advisor: [https://www.fit.hcmus.edu.vn/~lhbac/ Prof. Dr. Le Hoai Bac]
+-- Relevant Coursework: Data Mining, Machine Learning, Deep Learning, Computer Vision, Digital Image Processing, Mathematical methods for Computer Science, Mathematical methods for AI, Data Analysis
+- Bachelor of Science in Computer Science
+-- Sep. 2018 - Sep. 2022
+-- University of Science - Vietnam National University, Ho Chi Minh City, Vietnam
+-- Advisor: [https://www.fit.hcmus.edu.vn/~lnthanh/ Dr. Le Ngoc Thanh]
+-- Relevant Coursework: Data Mining, Machine Learning, Deep Learning, Computer Vision, Digital Image Processing, Graph Mining
+
+== Experience
+
+- Faculty of Information Technology, VNU-HCM University of Science
+-- Oct. 2024 - Present  
+-- Teaching Assistant 
+-- Assisted with laboratory instruction and teaching assistant for various undergraduate courses in the Computer Science program, including Data Visualization, Introduction to AI, Graph Mining.
+- CODERSCHOOL. LTD, Ho Chi Minh City
+-- Oct. 2024 - Apr. 2025
+-- Teaching Assistant
+--  Assisted with laboratory instruction and teaching assistant for Data Science, AI course.
+- Faculty of Information Technology, VNU-HCM University of Science
+-- Sep. 2022 - Sep. 2024
+-- Visiting Lecturer
+-- Assisted with laboratory instruction for various undergraduate courses in the Computer Science program, including Introduction to Machine Learning, Introduction to AI, Introduction to Programming, Introduction to Big Data, Parallel Programming, Graph Mining, Data Mining and Applications, and Applied Data Science.
+-- Contributed to the development of practice exercises for courses such as Data Structures and Algorithms, and Introduction to Machine Learning, primarily using Julia for topics including neural networks and support vector machines.
+- DIGIME PTE. LTD, Ho Chi Minh City
+-- Mar. 2023 - Dec. 2023
+-- AI Developer
+-- Developed and contributed to company projects in stages of data pre-processing and ML model construction.
+-- Specialized in researching and solving object detection challenges for digital video data from GoPro devices.
+-- Operated and maintained workflows on a Linux server environment.
+-- Utilized YOLO models, integrating them into the project to enhance problem-solving capabilities.

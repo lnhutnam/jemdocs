@@ -1,0 +1,63 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Nam Le's Homepage
+
+~~~
+{}{img_left}{assets/images/bio_formal.jpeg}{alt text}{176px}{256px}
+[https://namln.org Le Nhut Nam ] \n 
+Teaching Assistant, Dept. of Computer Science, Faculty of Information Technology \n 
+University of Science - Vietnam National University, Ho Chi Minh City, Vietnam (HCMUS) \n 
+Ho Chi Minh City, Vietnam\n 
+\n
+Master Student of Applied Mathematics, Dept. of Optimization and System, Faculty of Mathematical and Computer Science  \n
+University of Science - Vietnam National University, Ho Chi Minh City, Vietnam (HCMUS) \n
+Ho Chi Minh City, Vietnam \n
+\n
+Email: lnnam@fit.hcmus.edu.vn \n
+\[[https://scholar.google.com/citations?user=Vw1yV3YAAAAJ&hl=en Google Scholar]\] | \[[assets/files/CV.pdf Curriculem Vitae]\] | \[[https://www.linkedin.com/in/lnhutnam/ Linkedin]\] | \[[https://github.com/lnhutnam Github]\] \n
+~~~
+
+
+#at Baton Rouge, Louisiana, USA. (March 19, 2021)
+#at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
+
+# == News
+#- \[02-19-2025\] I am recognized as one of the 2024 Exemplary Reviewers of IEEE Wireless Communications Letters. 
+#- \[12-18-2024\] I am invited by IEEE Signal Processing Society to present a [https://signalprocessingsociety.org/blog/ai-thz-um-mimo-model-driven-deep-learning-foundation-models webinar] on "AI for THz Ultra-Massive MIMO Systems" on February 25, 2025, at 9 AM ET. You are warmly welcome to join!
+#- \[12-10-2024\] Our [https://arxiv.org/pdf/2412.09839 tutorial paper] on "AI for THz Ultra-Massive MIMO Systems" is submitted to [https://www.sciencedirect.com/journal/engineering Engineering] (IF=12.8) as an invited paper! This is the first comprehensive tutorial on this topic. 
+#- \[10-24-2024\] Our [https://ieeexplore.ieee.org/abstract/document/10143629 JSTSP paper] on deep learning-based THz ultra-massive MIMO channel estimation is listed as *IEEE Signal Processing Society's annual top 25 downloaded article* from Sept. 2023 to Sept. 2024! 
+#- \[09-13-2024\] I begin my new role as a visiting Ph.D. student at MIT, working with [https://scholar.google.com/citations?user=WeW5WsgAAAAJ&hl=en Prof. Lizhong Zheng].
+# - \[08-12-2024\] "Deep learning for near-field XL-MIMO transceiver design: principles and techniques" is accepted by IEEE Communications Magazine! 
+# - \[06-05-2024\] "Bayes-optimal unsupervised learning for channel estimation in near-field holographic MIMO" is accepted by IEEE Journal of Selected Topics in Signal Processing!
+
+== About me
+
+I am currently pursuing a **Master of Science in Applied Mathematics** at the [https://en.hcmus.edu.vn/ University of Science], [https://vnuhcm.edu.vn/ Vietnam National University, HCMC] under the supervison of [https://scholar.google.com/citations?user=4NR04JYAAAAJ&hl=en&oi=ao Assoc. PhD. Vo Si Trong Long]. 
+
+Previously, I completed a **Master's Degree in Computer Science** at the same institution. I was privileged to work under the guidance of [https://www.fit.hcmus.edu.vn/~lhbac/ Prof. PhD. Le Hoai Bac] on the topic of Temporal Knowledge Graph Reasoning Based on Reinforcement Learning. 
+
+Prior to my graduate studies, I earned a **Bachelor’s Degree in Computer Science**, where I conducted research on _Knowledge Graph Completion Based on Convolutional Neural Networks_ under the supervision of [https://www.fit.hcmus.edu.vn/~lnthanh/ Dr. Le Ngoc Thanh].
+
+My primary research focus is on **graph mining**, particularly in the area of knowledge graphs, including challenges related to completion and reasoning. In addition to this, I possess a deep interest in theoretical computer science—covering areas such as _graph theory_ and _its applications_—as well as in mathematics, where my passions lie in _mathematical programming, numerical methods, and topics related to probability_.
+
+== Research Interests 
+- Applied Optimization in Machine Learning, Mathematical programming & its applications, Numerical analysis and optimization 
+- Reinforcement Learning
+- Graph Mining
+
+== Contact
+Addr: 227 Nguyen Van Cu St, Ward 4, District 5, Ho Chi Minh City\n 
+Work email: lnnam@fit.hcmus.edu.vn \n 
+Personal email: nam.lnhut@gmail.com \n
+
+== Schedule
+Teaching schedule 2024–25:
+- Mondays (Full day)
+
+Office hours: 
+- Tuesdays 1:15pm–2:30pm
+- Room I.81, Building I Nguyen Van Cu Campus, Dept. of Computer Science, Faculty of Information Technology, University of Science - Vietnam National University, Ho Chi Minh City.
+
+~~~
+{}{raw}
+<a href="https://clustrmaps.com/site/1c4ft"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=NWizu2yWycK5EqrBPOR0o0dQVhqWyBlfP_IrjRxF6ns&cl=ffffff" width="100" height="auto" /></a>
+~~~
