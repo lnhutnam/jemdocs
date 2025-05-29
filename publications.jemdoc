@@ -1,20 +1,30 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications 
 
+Papers are listed below by year of submission before they are published, or year of publication.
 
 === Journal
 
+==== 2023
 - Le, Thanh, Nam Le, and Bac Le. “Knowledge graph embedding by relational rotation and complex convolution for link prediction.” Expert Systems with Applications 214 (2023): 119122. (ISI, Q1, IF: 8.6 2023)
 
 
 === Conference
 
-- Thanh Le, Nam Le, and Bac Le. “Embedding Model with Attention over Convolution Kernels and Dynamic Mapping Matrix for Link Prediction.” In Asian Conference on Intelligent Information and Database Systems, pp. 234-246. Springer, Cham, 2022. (Rank B, CORERANK 2021)
+==== 2025
+
 - Tung Luu\*, Nam Le, Duc Le, and Bac Le. (2025, February). From Visual Explanations to Counterfactual Explanations with Latent Diffusion. Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 420–429. (Rank A, CORE 2023, * means first author)
 - Nam Le, Thanh Le, and Bac Le (2025). Improving Temporal Knowledge Graph Completion via Tensor Decomposition with Relation-Time Context and Multi-Time Perspective. In Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 3, ISBN 978-989-758-737-5, ISSN 2184-433X, pages 326-333. (Rank B, CORE 2023)
 - Nam Le, Thanh Le, and Bac Le (2025). Improving Temporal Knowledge Graph Forecasting via Multi-Rewards Mechanism and Confidence-Guided Tensor Decomposition Reinforcement Learning. In Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 1, ISBN 978-989-758-737-5, ISSN 2184-433X, pages 68-79. (Rank B, CORE 2023)
 
+==== 2022
+
+- Thanh Le, Nam Le, and Bac Le. “Embedding Model with Attention over Convolution Kernels and Dynamic Mapping Matrix for Link Prediction.” In Asian Conference on Intelligent Information and Database Systems, pp. 234-246. Springer, Cham, 2022. (Rank B, CORERANK 2021)
+
+
 === Domestic Conference Publications
+
+==== 2025
 
 - Nam Le, Thanh Le, and Bac Le (2025). Improving Temporal Knowledge Graph Forecasting via Multi-reward mechanism and Confidence-Augmented Reinforcement Learning. The 14th Scientific Conference (VNUHCM-US Conf 2024)
 
